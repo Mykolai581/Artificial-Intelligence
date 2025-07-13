@@ -46,7 +46,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon1} alt="Icon" />
+              <img src={SlideIcon1} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle1")}</h3>
             <p className="item-slide__text">{t("Main.Text")}</p>
@@ -55,7 +55,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon2} alt="Icon" />
+              <img src={SlideIcon2} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle2")}</h3>
             <p className="item-slide__text">{t("Main.Text")}</p>
@@ -64,7 +64,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon3} alt="Icon" />
+              <img src={SlideIcon3} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle3")}</h3>
             <p className="item-slide__text">{t("Main.Text")} </p>
@@ -73,7 +73,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon4} alt="Icon" />
+              <img src={SlideIcon4} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle4")}</h3>
             <p className="item-slide__text">{t("Main.Text")}</p>
@@ -82,7 +82,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon5} alt="Icon" />
+              <img src={SlideIcon5} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle5")}</h3>
             <p className="item-slide__text">{t("Main.Text")}</p>
@@ -94,7 +94,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon1} alt="Icon" />
+              <img src={SlideIcon1} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle1")}</h3>
             <p className="item-slide__text">{t("Main.Text")} </p>
@@ -103,7 +103,7 @@ export default function TestimonialsSlider() {
         <SwiperSlide>
           <div className="slide__item item-slide">
             <div className="item-slide__image">
-              <img src={SlideIcon2} alt="Icon" />
+              <img src={SlideIcon2} alt="Icon" loading="lazy" />
             </div>
             <h3 className="item-slide__title">{t("Main.SlideTitle2")}</h3>
             <p className="item-slide__text">{t("Main.Text")} </p>

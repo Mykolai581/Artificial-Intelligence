@@ -12,7 +12,7 @@ export default function MainSectionApplyApp() {
       <div className="main__section-apply section-apply">
         <div className="section-apply__container">
           <div className="section-apply__image">
-            <img src={Image} alt="Image" />
+            <img src={Image} alt="Image" loading="lazy" />
           </div>
           <div className="section-apply__content content-section-apply">
             <Animation>

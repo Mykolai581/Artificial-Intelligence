@@ -34,21 +34,21 @@ export default function MainSectionPlatformApp() {
               <ButtonElement icon={Icon} text={t("Main.Watch Video")} />
             </div>
             <div className="section-platform__image">
-              <img src={Image} alt={image} />
+              <img src={Image} alt={image} loading="lazy" />
             </div>
           </div>
           <div className="section-platform__images">
             <div className="image-item">
-              <img src={Img1} alt={image} />
+              <img src={Img1} alt={image} loading="lazy" />
             </div>
             <div className="image-item">
-              <img src={Img2} alt={image} />
+              <img src={Img2} alt={image} loading="lazy" />
             </div>
             <div className="image-item">
-              <img src={Img3} alt={image} />
+              <img src={Img3} alt={image} loading="lazy" />
             </div>
             <div className="image-item">
-              <img src={Img4} alt={image} />
+              <img src={Img4} alt={image} loading="lazy" />
             </div>
           </div>
         </div>

@@ -18,7 +18,7 @@ export default function HeaderApp() {
         <div className="header__container">
           <div className="header__logo">
             <a href="#" className="link-btn">
-              <img src={Logo} alt="Logo" />
+              <img src={Logo} alt="Logo" loading="lazy" />
             </a>
           </div>
           <button

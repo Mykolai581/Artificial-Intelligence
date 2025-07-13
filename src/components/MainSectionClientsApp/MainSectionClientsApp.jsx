@@ -21,7 +21,7 @@ export default function MainSectionClientsApp() {
           </div>
         </Animation>
         <div className="clients__image">
-          <img src={Image3} alt="Image" />
+          <img src={Image3} alt="Image" loading="lazy" />
         </div>
       </div>
     </div>
