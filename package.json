@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mykolai581.github.io/React-Project-1",
+  "homepage": "https://mykolai581.github.io/Artificial-Intelligence",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

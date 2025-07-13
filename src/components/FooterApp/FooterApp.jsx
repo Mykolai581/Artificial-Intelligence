@@ -48,7 +48,6 @@ export default function FooterApp() {
     setIsOpen(false);
   };
 
-  // Закривання при кліку поза меню
   useEffect(() => {
     const handleClickOutside = (e) => {
       if (ref.current && !ref.current.contains(e.target)) {

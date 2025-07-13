@@ -4,7 +4,7 @@
 .footer__container {
   display: flex;
   flex-wrap: wrap;
-  gap: 60px;
+  gap: 50px;
   align-items: center;
 }
 
@@ -18,7 +18,7 @@
 }
 .footer__text {
   margin-bottom: 20px;
-  max-width: 290px;
+  max-width: 260px;
   font-size: 14px;
   line-height: 1.5;
   font-weight: 300;
@@ -59,7 +59,7 @@
 .item-footer__text {
   font-weight: 300;
   line-height: 1.5;
-  max-width: 290px;
+  max-width: 260px;
   margin-bottom: 20px;
   font-size: 14px;
 }

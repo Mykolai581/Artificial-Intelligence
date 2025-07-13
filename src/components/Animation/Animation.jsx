@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./Animation.css";
 
-export default function Animation({ children }) {
+export default function ScrollAnimation({ children }) {
   const ref = useRef(null);
   const [isVisible, setIsVisible] = useState(false);
 
